@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreyas01816652" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas01816652?logo=twitter&style=for-the-badge" alt="shreyas01816652" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Development , Java**
+- 🌱 I’m currently learning **DSA in Java, Flutter Development**
 
 - 📝 I regularly write articles on [https://shreyas0607.hashnode.dev](https://shreyas0607.hashnode.dev)
 
