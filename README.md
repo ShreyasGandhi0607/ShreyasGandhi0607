@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
-- 💬 Ask me about **python, java**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **shreyasgandhi673@gmail.com**
 
