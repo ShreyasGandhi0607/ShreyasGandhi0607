@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shreyas Gandhi 👋</h1>
 <h3 align="center">A Data Science & AI Enthusiast | Python Developer</h3>
 
-- 🔭 I’m currently working on [Stock trading bot](https://github.com/ShreyasGandhi0607/Stock-Trading-Bot)
+- 🔭 I’m currently working on [Reddit Content Research Agent](https://github.com/ShreyasGandhi0607/Reddit-Content-Research-Agent)
 
 - 🌱 Currently exploring **LLMs, FastAPI, and full-stack app development**
 
